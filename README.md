@@ -1,4 +1,7 @@
+
+
 # DevFlow
+
 
 Explore service dependencies, incidents, and deployments as a connected graph.
 
@@ -185,6 +188,21 @@ issue — it still starts (logging a clear warning) and every route returns a
 `503 DATABASE_UNAVAILABLE` with a plain-language message instead of crashing.
 The frontend surfaces this as an inline error state per panel, and the top bar
 shows a live connection indicator.
+
+---
+
+
+
+## Screenshots
+
+<img width="1366" height="728" alt="Screenshot 2026-08-23 215410" src="https://github.com/user-attachments/assets/c1caa20f-6a29-4ea4-9a42-e9d8dbf760d1" />
+<img width="1366" height="728" alt="Screenshot 2026-08-23 215350" src="https://github.com/user-attachments/assets/0980b5b0-745f-4f01-8604-5d2025b13677" />
+
+
+
+<img width="1365" height="687" alt="Screenshot 2026-08-23 215516" src="https://github.com/user-attachments/assets/5cccd5c4-0238-4102-8f71-f128599dbd1a" />
+<img width="1365" height="690" alt="Screenshot 2026-08-23 215456" src="https://github.com/user-attachments/assets/59745221-82f5-4853-a938-7e30d793aef0" />
+<img width="1365" height="685" alt="Screenshot 2026-08-23 215433" src="https://github.com/user-attachments/assets/d7087ea2-ed6c-41e3-b3ef-7cb36b43417b" />
 
 ---
 
