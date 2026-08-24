@@ -205,7 +205,9 @@ shows a live connection indicator.
 <img width="1365" height="685" alt="Screenshot 2026-08-23 215433" src="https://github.com/user-attachments/assets/d7087ea2-ed6c-41e3-b3ef-7cb36b43417b" />
 
 ---
+## Screen Recording
 
+<div style="position: relative; padding-bottom: 56.22254758418741%; height: 0;"><iframe src="https://www.loom.com/embed/80d1f3a9f51a4beea9cde442cbc8148a" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 
